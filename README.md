@@ -11,10 +11,3 @@ This repository contains two introductory Python assignments completed in Jupyte
 
 Functions, lists, dictionaries, loops, conditional logic, and Python's standard date/time modules.
 
-## Requirements
-
-Python 3 and Jupyter Notebook or JupyterLab.
-
-## Run
-
-Open a notebook in Jupyter and execute its cells in order. The library program keeps its sample records in memory while it runs.
